@@ -10,6 +10,7 @@ class Main {
             if (isPrime(n)) count++;
         }
         System.out.println(count);
+        sc.close();
     }
 
     static boolean isPrime(int n) {

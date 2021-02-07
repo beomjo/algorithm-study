@@ -13,6 +13,7 @@ class Main {
 
         System.out.println(gcp);
         System.out.println(lcm);
+        sc.close();
     }
 
     static int getGCP(int a, int b) {
