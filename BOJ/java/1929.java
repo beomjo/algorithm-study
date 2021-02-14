@@ -28,6 +28,7 @@ class Main {
         }
 
         System.out.println(sb);
+        sc.close();
     }
 }
 
