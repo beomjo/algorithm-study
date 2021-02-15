@@ -2,25 +2,22 @@ import java.io.*;
 import java.util.Scanner;
 
 class Main {
-    static String[] octToBin = {"000", "001", "010", "011", "100", "101", "110", "111"};
     public static void main(String[] args) throws IOException {
         Scanner sc = new Scanner(System.in);
         StringBuilder sb = new StringBuilder();
 
-        char[] oct = sc.next().toCharArray();
+        long n = sc.nextLong();
 
-        if (oct.length == 1 && oct[0] == '0') {
+        if (n == 0) {
             System.out.println(0);
             return;
         }
 
-        for (char c : oct) {
-            sb.append(octToBin[c - '0']);
+        while (n != 0) {
+            sb.insert(0, Math.abs(n % -2));
+            n = (long) Math.ceil((double) n / -2);
         }
 
-        while (sb.charAt(0) == '0') {
-            sb.deleteCharAt(0);
-        }
         System.out.println(sb.toString());
         sc.close();
     }
