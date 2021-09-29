@@ -1,3 +1,8 @@
+/*
+ * 카드 구매하기
+ * https://www.acmicpc.net/problem/11052
+ */
+
 import java.util.Scanner;
 
 class Main {

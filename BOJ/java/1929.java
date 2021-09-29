@@ -1,3 +1,7 @@
+/*
+ * 소수찾기
+ * https://www.acmicpc.net/problem/1978
+ */
 
 import java.util.Scanner;
 

@@ -1,3 +1,8 @@
+/*
+ * 부분수열의 합
+ * https://www.acmicpc.net/problem/1182
+ */
+
 import java.io.IOException;
 import java.util.Scanner;
 

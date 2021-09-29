@@ -1,3 +1,8 @@
+/*
+ * N과 M(3)
+ * https://www.acmicpc.net/problem/15651
+ */
+
 import java.io.IOException;
 import java.util.Scanner;
 

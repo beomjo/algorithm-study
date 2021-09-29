@@ -1,3 +1,7 @@
+/*
+ * 스택수열
+ * https://www.acmicpc.net/problem/1874
+ */
 
 import java.io.*;
 import java.util.Stack;

@@ -1,3 +1,8 @@
+/*
+ * 요세푸스 문제
+ * https://www.acmicpc.net/problem/1158
+ */
+
 import java.io.*;
 import java.util.LinkedList;
 import java.util.Queue;

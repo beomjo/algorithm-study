@@ -1,3 +1,7 @@
+/*
+ * 골드바흐의 추측
+ * https://www.acmicpc.net/problem/6588
+ */
 
 import java.util.Scanner;
 

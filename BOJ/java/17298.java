@@ -1,3 +1,8 @@
+/*
+ * 오큰수
+ * https://www.acmicpc.net/problem/17298
+ */
+
 import java.io.*;
 import java.util.Stack;
 import java.util.StringTokenizer;

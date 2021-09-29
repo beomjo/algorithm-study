@@ -1,3 +1,8 @@
+/*
+ * 일곱 난쟁이
+ * https://www.acmicpc.net/problem/2309
+ */
+
 import java.io.IOException;
 import java.util.Arrays;
 import java.util.Scanner;

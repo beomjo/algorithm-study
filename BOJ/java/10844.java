@@ -1,3 +1,8 @@
+/*
+ * 쉬운 계단 수
+ * https://www.acmicpc.net/problem/10844
+ */
+
 import java.util.Scanner;
 
 class Main {

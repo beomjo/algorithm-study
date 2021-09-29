@@ -1,3 +1,8 @@
+/*
+ * 수 이어 쓰기
+ * https://www.acmicpc.net/problem/1748
+ */
+
 import java.io.IOException;
 import java.util.Scanner;
 

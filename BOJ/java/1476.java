@@ -1,3 +1,8 @@
+/*
+ * 날짜계산
+ * https://www.acmicpc.net/problem/1476
+ */
+
 import java.io.IOException;
 import java.util.Scanner;
 

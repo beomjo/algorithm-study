@@ -1,3 +1,8 @@
+/*
+ * 로또
+ * https://www.acmicpc.net/problem/6603
+ */
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;

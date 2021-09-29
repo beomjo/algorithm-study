@@ -1,3 +1,8 @@
+/*
+ * 이천수
+ * https://www.acmicpc.net/problem/2193
+ */
+
 import java.util.Scanner;
 
 class Main {

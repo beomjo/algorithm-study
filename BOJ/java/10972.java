@@ -1,3 +1,8 @@
+/*
+ * 다음 순열
+ * https://www.acmicpc.net/problem/10972
+ */
+
 import java.io.IOException;
 import java.util.Scanner;
 

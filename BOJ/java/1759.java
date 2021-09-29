@@ -1,3 +1,8 @@
+/*
+ * 암호만들기
+ * https://www.acmicpc.net/problem/1759
+ */
+
 import java.io.IOException;
 import java.util.Arrays;
 import java.util.Scanner;

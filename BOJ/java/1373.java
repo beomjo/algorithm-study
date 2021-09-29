@@ -1,3 +1,9 @@
+
+/*
+ * 2진수 8진수
+ * https://www.acmicpc.net/problem/1373
+ */
+
 import java.io.*;
 import java.util.Stack;
 

@@ -1,4 +1,9 @@
 
+/*
+ * DFS와 BFS
+ * https://www.acmicpc.net/problem/1260
+ */
+
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;

@@ -1,3 +1,8 @@
+/*
+ * 진법 변환
+ * https://www.acmicpc.net/problem/2745
+ */
+
 import java.io.*;
 import java.util.Scanner;
 

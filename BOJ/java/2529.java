@@ -1,3 +1,8 @@
+/*
+ * 부등호
+ * https://www.acmicpc.net/problem/2529
+ */
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;

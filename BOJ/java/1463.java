@@ -1,3 +1,8 @@
+/*
+ * 1로만들기
+ * https://www.acmicpc.net/problem/1463
+ */
+
 import java.io.*;
 import java.util.Scanner;
 
