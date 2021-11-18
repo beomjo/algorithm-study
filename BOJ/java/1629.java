@@ -1,3 +1,8 @@
+/*
+ * 곱셈
+ * https://www.acmicpc.net/problem/1629
+ */
+
 import java.util.Scanner;
 
 class Main {
